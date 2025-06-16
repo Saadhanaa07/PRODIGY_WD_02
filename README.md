@@ -1,5 +1,5 @@
 # PRODIGY_WD_02
-A Stopwatch Web Application built using HTML, CSS, and JavaScript. Features include Start, Pause, Reset, and Lap Time tracking.
+
 ⏱️ PRODIGY_WD_02 – Stopwatch Web Application
 📌 Task
 Build a Stopwatch Web Application using HTML, CSS, and JavaScript as part of the PRODIGY Web Development Internship.
