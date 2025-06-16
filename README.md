@@ -14,6 +14,7 @@ Reset the stopwatch
 Record lap times
 
 Responsive & user-friendly interface
+
 🛠️ Tech Stack
 HTML
 
@@ -29,5 +30,6 @@ Event handling (start, pause, reset logic)
 Updating UI dynamically using JS
 
 Structuring clean and readable front-end code
+
 🔗 Live Preview
 You can view the project live here 👉 
