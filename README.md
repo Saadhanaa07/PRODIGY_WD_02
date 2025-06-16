@@ -32,4 +32,4 @@ Updating UI dynamically using JS
 Structuring clean and readable front-end code
 
 🔗 Live Preview
-You can view the project live here 👉 
+You can view the project live here 👉 https://github.com/Saadhanaa07/PRODIGY_WD_02
